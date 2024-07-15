@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Ecommerce Website",
+        "image":"/images/ecommerce.jpg",
+        "description":"Explore a stylish React-powered Ecommerce frontend for effortless online shopping, featuring intuitive navigation and a modern, user-friendly design.",
+        "url":"https://superlative-longma-f0f7f3.netlify.app/"
+    },
+    {
+        "title":"MLM Website",
+        "image":"/images/mlm.jpg",
+        "description":"Build an MLM website with adminpanel, that manages database base integration using PHP, and user-friendly interfaces to manage networks and track earnings seamlessly.",
+        "url":"https://my-portfolio.rf.gd"
+    }
+]
